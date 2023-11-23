@@ -5,6 +5,7 @@ export default function Home(props) {
     const { name, bio } = props
     return (
         // hello
+        //padoran
         <div className='container text-center'>
             <h1 className='my-3'>Home</h1>
             <div className='position-absolute top-50 start-50 translate-middle'>
